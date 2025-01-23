@@ -22,11 +22,12 @@ This Python script converts an input image to a specified color palette. The scr
 ### Example:
 ```
 python /src/sunglass.py input.jpg output.jpg --palette ffffff 999999 555555 222222
-python /src/sunglass.py input.jpg output.jpg
+python /src/sunglass.py /src/res/input.jpg /src/res/output.jpg
 ```
 
 ### Results:
 
-
+![这是图片](./res/input.jpg "girl lake input")
+![这是图片](./res/output.jpg "girl lake output")
 
 Feel free to contribute, report issues, or suggest improvements!
