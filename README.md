@@ -13,7 +13,7 @@ This Python script converts an input image to a specified color palette. The scr
 
 2. Run the script with the following command-line arguments:
    ```
-   python image_color_converter.py input_image_path output_image_path --palette color1 color2 color3 ... --color-space rgb/hsv/hsl
+   python image_color_converter.py input_image_path output_image_path --palette color1 color2 color3 ...
    ```
    - `input_image_path`: Path to the input image.
    - `output_image_path`: Path to save the output image.
